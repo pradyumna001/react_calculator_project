@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+
+.parent {
+    background-color: pink;
+    width: 355px;
+}
+
+h1 {
+    color: red;
+}
