@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 function add(x,
     y) {

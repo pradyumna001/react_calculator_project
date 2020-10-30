@@ -1,7 +1,7 @@
 import React from 'react';
 import add from './Add';
 import sub from './Sub';
-import divi from './Div';
+import div from './Div';
 import mul from './Mul';
 
 function App() {
@@ -42,8 +42,8 @@ else if (19<= hours && hours< 24) {
         </div> 
         <div>
          <ul>
-           <li>sum of two no is {add(30,2)}</li>
-           <li>sub of two no is {sub(30,2)}</li>
+           <li>sum of two no is {add(40,2)}</li>
+           <li>sub of two no is {sub(40,2)}</li>
            <li>multipliaction of two no is {mul(30,2)}</li>
            <li>division of two no is {div(30,2)}</li>
          </ul>
